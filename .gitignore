@@ -1,0 +1,14 @@
+# Ignore Maven target directory
+target/
+
+# Ignore log files
+*.log
+
+# Ignore configuration files with sensitive data
+src/main/resources/config.properties
+
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
